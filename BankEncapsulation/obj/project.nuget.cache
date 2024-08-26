@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5ucGPo6S/MDYD6ujmJylC6soe9YwoJfWg3sLFbibTPeILqWumgmm5w5FenD5+vnNpC29gWXqGi3+gA99XVk6g==",
+  "success": true,
+  "projectFilePath": "/Users/raynardbrown/Desktop/repos2/BankEncapsulation/BankEncapsulation/BankEncapsulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
