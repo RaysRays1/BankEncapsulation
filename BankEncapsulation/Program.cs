@@ -12,7 +12,7 @@ currentBlance = rayAccount.CheckBlance();
 
 Console.WriteLine(currentBlance);
 
-
+rayAccount.UserInput();
 
 
 

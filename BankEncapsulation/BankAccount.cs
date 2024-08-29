@@ -31,16 +31,14 @@ public class BankAccount
     {
         return _balance;
     }
-    
-    
-    
-       
 
+    public void UserInput()
+    {
+        Console.WriteLine("How much would you like to deposit");
+        var deposit = double.Parse(Console.ReadLine());
+        AddMoney(deposit);
+        Console.WriteLine($"Your blance is {CheckBlance()}");
+    }
 
-
-
-
-
-    
 
 }
